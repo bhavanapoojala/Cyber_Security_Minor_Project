@@ -1,0 +1,7 @@
+Currently scanning: Finished! | Screen View: Unique Hosts
+2 Captured ARP Req/Rep packets, from 2 hosts. Total size: 120
+_____________________________________________________________________
+ IP                 At MAC Address     Count Len MAC Vendor
+----------------------------------------------------------------------
+ 192.168.56.101     08:00:27:4a:1b:2c  1     60  Cadmus Computer Systems
+ 192.168.56.1       0a:00:27:00:00:00  1     60  Unknown vendor

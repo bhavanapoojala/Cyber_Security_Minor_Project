@@ -1,0 +1,13 @@
+# Nmap OS Fingerprint Scan Report
+# Command: sudo nmap -O 192.168.56.101
+
+Nmap scan report for 192.168.56.101
+Host is up (0.00042s latency).
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.9 - 2.6.33
+Network Distance: 1 hop
+
+ICMP Echo Response:
+TTL: 64 (Consistent with Linux OS default TTL)
